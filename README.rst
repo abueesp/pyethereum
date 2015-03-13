@@ -22,8 +22,8 @@ Installation:
 
 
 ``git clone https://github.com/ethereum/pyethereum/``
-
-``python setup.py install``
+``cd pyethereum``
+``sudo python setup.py install``
 
 
 
